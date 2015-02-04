@@ -1,8 +1,6 @@
 title:            Filtercutter
 description:      Filtercutter website.
-disqus_shortname: hpstrtheme
-reading_time:     true
-words_per_minute: 200
+disqus_shortname: 
 url:              # //filtercutter.github.io/Website
 
 # Owner/author information
@@ -10,11 +8,11 @@ owner:
   name:           Filtercutter
   avatar:         avatar.jpg
   bio:            "London based producer-beatmaker with sounds that are rutted in heavy baselines. His beat-ruffling is always resulting in an experimental complex sounds, but with an emotional vibes."
-  email:          
+  email:          filtercutter@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        filtercutter
   facebook:       filtercutter
-  github:         filtercutter
+  github:
   stackexchange:  
   linkedin:       
   instagram:        
