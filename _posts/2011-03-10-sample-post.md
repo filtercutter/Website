@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: WTF is Swag
+description: "Tune is up."
 modified: 2014-12-24
-tags: [sample post]
+tags:
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
