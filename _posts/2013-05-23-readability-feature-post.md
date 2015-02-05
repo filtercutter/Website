@@ -10,7 +10,7 @@ image:
 ---
 
 Dub Carruseles I // 12″ strictly vinyl // 300 limited // OUT NOW
-by yassin on April 20, 2013
+
 Title: Dub Carruseles
 
 This heavy bass colab with amsterdams Selector Depender, turned out as a lovely vinyl release. Instant classic stuff.
