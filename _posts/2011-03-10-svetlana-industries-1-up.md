@@ -6,7 +6,7 @@ modified: 2014-12-24
 tags: [Vinyl, Release, Svetlana-Industries]
 comments: false
 image:
-  feature: svelanta_fixd_600px.png
+  feature: 1up_fly.png
   
 ---
 
