@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Privacy &amp; Disclosure Policy"
-description: "HPSTR Theme's website policies, terms &amp; conditions, license, and other legal stuff you won't read."
+description: "Website policies, terms &amp; conditions, license, and other legal stuff you won't read."
 tags: [disclaimer, terms, copyright, license]
 comments: false
 ---
 
-This is my personal website written and edited by me. For questions about this site, please contact Michael Rose at <michael@mademistakes>. All content provided is for informational purposes only. The writings and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
+This is the website presenting my music and art. Its made through <a href="http://en.wikipedia.org/wiki/Jekyll_(software) " target="_blank">Jekyll</a> and hosted on Github using <a href="https://github.com/mmistakes/hpstr-jekyll-theme" target="_blank">HPSTR</a> theme. For questions about this site, please contact Stefan Miletic at <a href="mailto:stefan.miletic@gmail.com">stefan.miletic@gmail.com</a>. The writings and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my colleagues or co-workers. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
 ## Privacy Policy
 
@@ -35,37 +35,12 @@ Third-party advertisers may also place and read cookies on your browser and/or u
 
 If you wish to disable cookies, you may do so through your web browser options.
 
-Instructions for doing so and for other cookie-related management can be found on the specific web browsers' websites.
-
-#### Amazon
-
-Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon's Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
-
 #### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-## Disclosure Policy
-
-I make money on this site through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this site because I'll get a percentage of that sale.
-
-Currently I'm an affiliate for Amazon and Google Adsense.
-
-What this means for you:
-
-* I do not and will not recommend a product just because I'm an affiliate.
-* I became an affiliate to earn some revenue towards the costs of running and maintaining this site. Where I have direct control over which ads are served on this site I offer only products that are directly related to the topic of this site and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not recommend products just for the sake making money.
-* I recommend products because I think they are valuable to my readers.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this blog.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
 
 Just like this site, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
 
 Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy. This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. 
 
-**Last Updated:** August 30, 2013.
+**Last Updated:** 07. Feb 2015.
