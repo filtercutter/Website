@@ -1,11 +1,12 @@
 ---
 layout: page
-title: RELEASES
+title: Releases
 description: "Links of the releases - Vinyl or Digital."
 image:
   feature: makazeblack.svg
 
 share: true
+comments: false
 ---
 
 
