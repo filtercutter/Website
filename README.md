@@ -1,25 +1,46 @@
-# HPSTR Jekyll Theme
-
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
-
-## What HPSTR brings to the table:
-
-* Modern and minimal design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* [Available in Spanish](https://github.com/cruznick/hpstr-jekyll-theme/tree/es). Thanks [@cruznick](https://github.com/cruznick)!
-
-![HPSTR Theme Preview screenshot](http://mmistakes.github.io/hpstr-jekyll-theme/images/hpstr-jekyll-theme-preview.jpg)
-
+---
+layout: page
+title: "Readme"
+description: "Website policies, terms &amp; conditions, license, and other legal stuff you won't read."
+tags: [disclaimer, terms, copyright, license]
+comments: false
 ---
 
-## Getting Started
+This is the website presenting my music and art. Its made through <a href="http://en.wikipedia.org/wiki/Jekyll_(software) " target="_blank">Jekyll</a> and hosted on Github using <a href="https://github.com/mmistakes/hpstr-jekyll-theme" target="_blank">HPSTR</a> theme. For questions about this site, please contact Stefan Miletic at <a href="mailto:stefan.miletic@gmail.com">stefan.miletic@gmail.com</a>. The writings and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my colleagues or co-workers. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+## Privacy Policy
 
-To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) for more information.
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent. Period.
+
+### Log Files
+
+Like many other websites, this website uses log files to help learn about when, from where and how often traffic flows to this site. The information in the log files include:
+
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamp
+* Referring and exit pages
+* Number of clicks
+
+All of this information is not linked to anything that is personally identifiable.
+
+### Cookies and web beacons
+
+Like nearly all Websites, this website stores "convenience" cookies on your computer whenever you leave a comment. These cookies record the name, and email address that you enter when you submit a comment so that you wont have to re-type that information the next time you leave a comment.
+
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This website has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+
+If you wish to disable cookies, you may do so through your web browser options.
+
+#### Google Analytics
+
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+
+Just like this site, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+
+Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy. This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. 
+
+**Last Updated:** 07. Feb 2015.
