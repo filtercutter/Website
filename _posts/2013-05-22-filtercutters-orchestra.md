@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-This is a concept put together by Filtercutter, with a will to perform Live Dubstep. Band was active during 2008. and 2009. It was made as o collaboration with a friendly musicians, and was kind of a unique thing in the Balkan region at the time. All hardwere equipment, and original tunes done by jam session experiments on the fly.
+This is a concept put together by Filtercutter, with a will to perform Live Dubstep. It was made as a collaboration of a friends musicians, and was kind of a unique thing in the Balkan region at the time. With all the techy equipment, trippy sounds are done by jam sessioning and experiments on the fly. Band was active during 2008. and 2009. 
 
 mixing desk - sampler - keyboards - drums + microphones
 
@@ -27,8 +27,8 @@ Filtercutter was pulling the strings with the main sampler and a mixing desk, to
 Usually there was also the helping microphone force from Mc Bojah and Mc Techs. They were bringing the vibes up with their rhymes 'n flow.
 
 <figure class="half">
-	<a href="/images/orkestar3.jpg"><img src="/images/orkestar3.jpg" alt=""></a>
 	<a href="/images/orkestar2.jpg"><img src="/images/orkestar2.jpg" alt=""></a>
+	<a href="/images/orkestar3.jpg"><img src="/images/orkestar3.jpg" alt=""></a>
 	
 	<figcaption>Photos by Isidora J.</figcaption>
 </figure>

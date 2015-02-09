@@ -12,7 +12,7 @@ image:
 
 Pre-order this lovely USB drive with music goodies on it. 
 
-Made out of eco-friendly bamboo wood, with remixes by Starkey, BSN Posse, Normaling, Somejerk and myself Filtercutter. 
+Made out of eco-friendly bamboo wood, with remixes by Starkey, BSN Posse, Normaling, Somejerk, Todd Fink and myself Filtercutter! 
 
 You'll get a remix stems included, for you to have fun with!
 
