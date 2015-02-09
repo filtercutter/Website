@@ -35,4 +35,6 @@ Tracks:
 
 <a href="http://sozialistischer-plattenbau.org/home/spb12021-selektor-depender-filtercutter-dub-carusseles/"><img src="http://www.bassculture.nl/wp-content/uploads/2012/08/dub-carruseles-12inch-vinyl-release.jpg"></a>
 
-<div markdown="0"><a href="http://sozialistischer-plattenbau.org/home/spb12021-selektor-depender-filtercutter-dub-carusseles/" target="_blank" class="btn btn-danger">Click here to order a vinyl!</a></div>
+---
+
+<div markdown="0"><a href="http://sozialistischer-plattenbau.org/home/spb12021-selektor-depender-filtercutter-dub-carusseles/" target="_blank" class="btn">Click here to order a vinyl!</a></div>

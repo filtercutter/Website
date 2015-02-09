@@ -22,4 +22,4 @@ You'll get a remix stems included, for you to have fun with!
 
 <a href="http://www.seclusiasis.com/seclusiasis-catalog/" target="_blank">Also check out other releases from this record label</a>
 
-<div markdown="0"><a href="http://www.seclusiasis.com/" target="_blank" class="btn btn-danger">Seclusiasis</a></div>
+<div markdown="0"><a href="http://www.seclusiasis.com/" target="_blank" class="btn">Seclusiasis</a></div>

@@ -22,6 +22,7 @@ mixing desk - sampler - keyboards - drums + microphones
    	<figcaption>flyer form 2008. made by <a href="http://stang.rs/" target="_blank">Igor Stangliczky</a></figcaption>
    </figure>
 
+
 Filtercutter was pulling the strings with the main sampler and a mixing desk, together with two keyboardists (Bojan, Darja) and a percussion player (Stung).
 
 Usually there was also the helping microphone force from Mc Bojah and Mc Techs. They were bringing the vibes up with their rhymes 'n flow.

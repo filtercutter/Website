@@ -16,4 +16,6 @@ Mad-Hop​ Records drops the release of "Translucent" Remixes including my 2nd R
 
 Enjoy!
 
-<div markdown="0"><a href="http://mad-hop-records.com/" target="_blank" class="btn btn-danger">Mad-Hop Records</a></div>
+---
+
+<div markdown="0"><a href="http://mad-hop-records.com/" target="_blank" class="btn">Mad-Hop Records</a></div>

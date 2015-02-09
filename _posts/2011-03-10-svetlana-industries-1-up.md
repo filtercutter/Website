@@ -24,5 +24,7 @@ Label continued to release vinyl records, and in the next couple of years built 
 
 After a litle brake, the label will hopefully continue to release their amasing music again soon, because it is a will of them many fans from the wide world.
 
-<div markdown="0"><a href="http://www.svetlanaindustries.com/" target="_blank" class="btn btn-danger">Svetlana Industries</a></div>
+---
+
+<div markdown="0"><a href="http://www.svetlanaindustries.com/" target="_blank" class="btn">Svetlana Industries</a></div>
 

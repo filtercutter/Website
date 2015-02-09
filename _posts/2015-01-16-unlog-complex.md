@@ -20,4 +20,6 @@ Its a beat selection from finest newage beatmakers from all over the internet, a
 
 SSWll – 9th cloud – Woodwire – Bassilus C – Tehu – Swealer – Mart One – D£UC£ – Ato – Yapo – Debmaster – Filtercutter – Noza – Sicaa – L – Kuna Maze – Ally Mobbs – Jeebrahil
 
-<div markdown="0"><a href="http://www.unlog.info/" target="_blank" class="btn btn-danger">Unlog</a></div>
+---
+
+<div markdown="0"><a href="http://www.unlog.info/" target="_blank" class="btn">Unlog</a></div>
