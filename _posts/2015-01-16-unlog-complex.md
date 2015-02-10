@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlog Complex 05
-description: "talking about the compilation."
+description: "Unlog Complex 05."
 modified: 2014-12-23
 tags: [Unlog, Compilation]
 comments: false

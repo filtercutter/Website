@@ -22,7 +22,7 @@ It was accompanied by a bass-heavy minimal-deep Ramadanman Refix. That guy is al
 
 Label continued to release vinyl records, and in the next couple of years built quite a good reputation. It was mainly because Svetlana was realy looking much further then the balkan region itself. Artists from arround the world was releasing tunes and remixes, including Teebs from Los Angeles, Demokracy form Russia, or Kelpe from England. 
 
-After a litle brake, the label will hopefully continue to release their amasing music again soon, because it is a will of them many fans from the wide world.
+After a litle brake, the label will hopefully continue to release their amazing music again soon, because it is a will of them many fans from the wide world.
 
 ---
 

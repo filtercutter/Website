@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Filtercutters Dubstep Orchestra"
-description: "slike."
+title: "Filtercutter's Dubstep Orchestra"
+description: "Filtercutter's Dubstep Orchestra."
 tags: [Live, Orchestra, Dubstep]
 comments: false
 ---
 
 
-This is a concept put together by Filtercutter, with a will to perform Live Dubstep. It was made as a collaboration of a friends musicians, and was kind of a unique thing in the Balkan region at the time. With all the techy equipment, trippy sounds are done by jam sessioning and experiments on the fly. Band was active during 2008. and 2009. 
+This is a concept put together by Filtercutter, with a will to perform Live Dubstep. It was made as a collaboration of a friends musicians, and was kind of a unique thing in the Balkan region at the time. With all the techy equipment, trippy sounds are made by jam sessioning and experiments on the fly. Band was active during 2008. and 2009. 
 
 mixing desk - sampler - keyboards - drums + microphones
 
@@ -34,4 +34,4 @@ Usually there was also the helping microphone force from Mc Bojah and Mc Techs. 
 	<figcaption>Photos by Isidora J.</figcaption>
 </figure>
 
-The band didn't last very long, because of the high demands for practicing toghether, so it seemd too compcicated. All of the members had their separate, very demanding projects. Anyway, this will stay remembered in the harts of some of Belgrades most hard core bass culture fans.
+The band didn't last very long, because of the high demands for practicing toghether, so it seemd too compcicated. All of the members had their separate, very demanding projects. Anyway, this will stay remembered in the harts of some of Belgrade's most hard core bass culture fans.

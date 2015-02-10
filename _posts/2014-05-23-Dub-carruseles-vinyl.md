@@ -2,7 +2,7 @@
 layout: post
 title: "Dub carruseles 12 inch vinyl"
 description: "Dub carruseles 12 inch vinyl."
-tags: [Bassculture, Dub, Amsterdam]
+tags: [Bassculture, Vinyl, Amsterdam, Dub]
 comments: false
 modified: 2013-06-30
 image:
@@ -12,11 +12,11 @@ image:
 
 Dub Carruseles I // 12″ strictly vinyl // 300 limited
 
-This heavy bass colab with amsterdams Selektor Depender, turned out as a lovely vinyl release. Instant classic stuff.
+This heavy bass colab with amsterdam's Selektor Depender, turned out as a lovely vinyl release. Instant classic stuff.
 
 * Artists: Selektor Depender & Filtercutter
-* Graphic Design: Iva Spasojevic, www.ivaspasojevic.com
-* Label: sozialistischer-plattenbau.org & bassculture.nl
+* Graphic Design: Iva Spasojevic, <a href="http://www.ivaspasojevic.com/" target="_blank">www.ivaspasojevic.com</a>
+* Label: <a href="http://sozialistischer-plattenbau.org/" target="_blank">sozialistischer-plattenbau.org</a> & <a href="http://http://www.bassculture.nl/" target="_blank">bassculture.nl</a>
 * Catalogusnummer: SPB 12022
 
 
