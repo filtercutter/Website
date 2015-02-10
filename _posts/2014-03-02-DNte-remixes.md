@@ -18,4 +18,4 @@ Enjoy!
 
 ---
 
-<div markdown="0"><a href="http://mad-hop-records.com/" target="_blank" class="btn">Mad-Hop Records</a></div>
+<div markdown="0"><a href="http://mad-hop-records.com/" target="_blank" class="btn btn-info">Mad-Hop Records</a></div>

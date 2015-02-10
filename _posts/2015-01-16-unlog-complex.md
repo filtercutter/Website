@@ -22,4 +22,4 @@ SSWll – 9th cloud – Woodwire – Bassilus C – Tehu – Swealer – Mart On
 
 ---
 
-<div markdown="0"><a href="http://www.unlog.info/" target="_blank" class="btn">Unlog</a></div>
+<div markdown="0"><a href="http://www.unlog.info/" target="_blank" class="btn btn-info">Unlog</a></div>

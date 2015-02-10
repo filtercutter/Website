@@ -37,4 +37,4 @@ Tracks:
 
 ---
 
-<div markdown="0"><a href="http://sozialistischer-plattenbau.org/home/spb12021-selektor-depender-filtercutter-dub-carusseles/" target="_blank" class="btn">Click here to order a vinyl!</a></div>
+<div markdown="0"><a href="http://sozialistischer-plattenbau.org/home/spb12021-selektor-depender-filtercutter-dub-carusseles/" target="_blank" class="btn btn-info">Click here to order a vinyl!</a></div>
