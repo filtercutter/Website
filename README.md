@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Readme"
 description: "Website policies, terms &amp; conditions, license, and other legal stuff you won't read."
 ---
