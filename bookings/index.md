@@ -12,5 +12,5 @@ comments: false
 
 ### For bookings, contact me on an email:
 
-* <a href="mailto:filtercutter@gmail.com">filtercutter@gmail.com</a> 
+* <a href="mailto:bookings@filtercutter.com">bookings@filtercutter.com</a> 
 
