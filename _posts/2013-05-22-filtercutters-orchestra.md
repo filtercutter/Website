@@ -33,5 +33,3 @@ Usually there was also the helping microphone force from Mc Bojah and Mc Techs. 
 	
 	<figcaption>Photos by Isidora J.</figcaption>
 </figure>
-
-The band didn't last very long, because of the high demands for practicing toghether, so it seemd too compcicated. All of the members had their separate, very demanding projects. Anyway, this will stay remembered in the harts of some of Belgrade's most hard core bass culture fans.
