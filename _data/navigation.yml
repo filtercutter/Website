@@ -1,8 +1,5 @@
 # Menu navigation links
 
-- title: Booking
-  url: /bookings/
-
 - title: Releases
   url: /Releases/
 
