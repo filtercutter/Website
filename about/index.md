@@ -16,6 +16,6 @@ London based DJ/Producer with sounds that are rooted in heavy baselines. His bea
 
 <figcaption><a href="http://nk.rs/" target="_blank">Photos by Nemanja Knezevic</a></figcaption>
 
-### For bookings, send an email to:
+### For bookings, contact me at:
 
-* <a href="mailto:filtercutter@gmail.com">filtercutter@gmail.com</a> 
+* <a href="mailto:bookings@filtercutter.com">bookings@filtercutter.com</a> 
