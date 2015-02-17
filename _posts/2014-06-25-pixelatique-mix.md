@@ -44,4 +44,4 @@ The upload has reached 5th in the Experimental chart and 12th in the Electronic 
 
 ---
 
-<div markdown="0"><a href="https://twitter.com/PXLTQ" target="_blank" class="btn btn-info">Pixelatique</a></div>
+<div markdown="0"><a href="https://www.mixcloud.com/Pixelatique/pixelatique-podcast-34-filtercutter/" target="_blank" class="btn btn-info">Pixelatique</a></div>
