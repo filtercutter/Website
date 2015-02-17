@@ -9,7 +9,7 @@ comments: false
 
 This is a concept put together by Filtercutter, with a will to perform Live Dubstep. It was made as a collaboration of a friends musicians, and was kind of a unique thing in the Balkan region at the time. With all the techy equipment, trippy sounds are made by jam sessioning and experiments on the fly. Band was active during 2008. and 2009. 
 
-mixing desk - sampler - keyboards - drums + microphones
+mixing desk = sampler + keyboards + drums + microphones
 
 
 <figure class="">
