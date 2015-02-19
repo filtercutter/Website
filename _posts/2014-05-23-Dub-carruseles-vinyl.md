@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Dub carruseles 12 inch vinyl"
-description: "Dub carruseles 12 inch vinyl."
+title: "Dub Carruseles 12 inch Vinyl"
+description: "Dub Carruseles 12 inch Vinyl."
 tags: [Bassculture, Vinyl, Amsterdam, Dub]
 comments: false
 modified: 2013-06-30
