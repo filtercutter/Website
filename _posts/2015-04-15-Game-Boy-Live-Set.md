@@ -21,7 +21,7 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 <a href="https://soundcloud.com/theeasyfrogsshow/" target="_blank">Check out other guest mixes form eZfRg</a>
 
-Also be shure to catch Filtercutter tonight at Amsterdam Patapoe Radio - <a href="http://www.lowpitched.org/" target="_blank">Low-Pitched/</a>
+Also be shure to catch Filtercutter tonight at Amsterdam Patapoe Radio - <a href="http://www.lowpitched.org/" target="_blank">Low-Pitched</a>
 
 Will be live streaming from 21 till late.
 
