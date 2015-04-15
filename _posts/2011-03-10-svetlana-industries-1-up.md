@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Filtercutter 1 Up out on Svetlana Industries Vinyl 12"
-description: "Tune is up."
+description: "1 Up."
 modified: 2014-12-24
 tags: [Vinyl, Release, Svetlana-Industries]
 comments: false

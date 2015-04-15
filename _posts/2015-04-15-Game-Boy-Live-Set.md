@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Live set form FoxtonFM: eZfRg Radio Show.
+title: Live set form FoxtonFM: eZfRg Radio Show
 description: "Filtercutter latest live music setup."
-tags: [Gameboy, chip, bass, music]
+modified: 2015-04-15
+tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
 image:
-  feature: hoxtonfmlogo.jpg
+  feature: hoxtonfmlogo.png
+  
 ---
-
 
 Live session recordings of Filtercutter live set, recorded on the eZfRg radio show at HoxtonFM London, Hackney.
 
@@ -28,5 +29,7 @@ Will be live streaming from 21 till late.
 <a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
 
 <a href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg"></a>
+
+---
 
 <div markdown="0"><a href="https://www.facebook.com/LowPitchedPl3asure" target="_blank" class="btn btn-info">Low-Pitched</a></div>
