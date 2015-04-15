@@ -31,4 +31,4 @@ Will be live streaming from 21 till late.
 
 <a href="http://radiopatapoe.nl/" target="_blank"><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/p720x720/11059919_848986995173771_8115794617188446192_o.jpg"></a>
 
-
+<div markdown="0"><a href="http://radiopatapoe.nl/" target="_blank" class="btn btn-info">Patapoe</a></div>
