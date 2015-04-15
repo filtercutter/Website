@@ -5,7 +5,7 @@ description: "Filtercutter latest live music setup."
 tags: [Gameboy, chip, bass, music]
 comments: false
 image:
-  feature: 11125286_10205360610188284_906360364_n.jpg
+  feature: hoxton_fm_logo1.jpg
 ---
 
 
