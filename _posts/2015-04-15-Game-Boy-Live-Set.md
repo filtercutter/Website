@@ -9,9 +9,9 @@ image:
 ---
 
 
-Latest live session - Filtercutter live set recorded on the eZfRg radio HoxtonFM in the London, UK.
+Live session recordings of Filtercutter live set, recorded on the eZfRg radio show at HoxtonFM London, Hackney.
 
-Low bass and garrage basslines in the house. 
+Check out experimental heavy bass sounds coming straight from the chip. 
 
 <a href="https://soundcloud.com/theeasyfrogsshow/ezfrg-filtercutter-live-game-boy-hoxton-fm" target="_blank">Filtercutter Live GameBoy Set</a>
 
@@ -20,3 +20,15 @@ Low bass and garrage basslines in the house.
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199482660&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <a href="https://soundcloud.com/theeasyfrogsshow/" target="_blank">Also check out other guest mixes form eZfRg</a>
+
+<div markdown="0"><a href="https://soundcloud.com/theeasyfrogsshow/" target="_blank" class="btn btn-info">eZfRg</a></div>
+
+Also be shure to catch filtercutter tonight at Amsterdam Patapoe Radio. 
+
+Will be live streaming from 21 till late.
+
+<a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
+
+<a href="http://radiopatapoe.nl/" target="_blank"><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/p720x720/11059919_848986995173771_8115794617188446192_o.jpg"></a>
+
+
