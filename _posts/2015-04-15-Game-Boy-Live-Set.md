@@ -27,8 +27,6 @@ Will be live streaming from 21 till late.
 
 <a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
 
-<a href="http://www.lowpitched.org/" target="_blank">http://www.lowpitched.org/</a>
-
 <a href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg"></a>
 
-<div markdown="0"><a href="http://radiopatapoe.nl/" target="_blank" class="btn btn-info">Patapoe</a></div>
+<div markdown="0"><a href="http://www.lowpitched.org/" target="_blank" class="btn btn-info">Low-Pitched</a></div>
