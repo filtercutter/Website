@@ -23,7 +23,7 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 <div markdown="0"><a href="https://soundcloud.com/theeasyfrogsshow/" target="_blank" class="btn btn-info">eZfRg</a></div>
 
-Also be shure to catch filtercutter tonight at Amsterdam Patapoe Radio. 
+Also be shure to catch Filtercutter tonight at Amsterdam Patapoe Radio. 
 
 Will be live streaming from 21 till late.
 
