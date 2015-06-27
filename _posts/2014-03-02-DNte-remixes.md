@@ -9,7 +9,7 @@ image:
   
 ---
 
-Mad-Hop​ Records drops the release of "Translucent" Remixes including my 2nd Remix which was not included on the DNte​ - "Moments"12 vinyl ' ep. Its a verson featuring different vibes then the original version, more chilled but with heavy synth and bass.
+Mad-Hop​ Records drops the release of "Translucent" Remixes including my 2nd Remix which was not included on the DNte​ - "Moments" 12' vinyl ep. Its a verson featuring different vibes then the original version, more chilled but with heavy synth and bass.
 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3192182841/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3574151822/transparent=true/" seamless><a href="http://mad-hop.bandcamp.com/album/dnte-translucent-remixes">Dnte -Translucent Remixes by MAD-HOP</a></iframe>
