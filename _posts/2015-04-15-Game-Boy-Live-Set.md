@@ -25,7 +25,7 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 Also be shure to catch Filtercutter tonight at Amsterdam Patapoe Radio - <a href="http://www.lowpitched.org/" target="_blank">Low-Pitched</a>
 
-Will be live streaming from 21 till late.
+Will be streaming live, from 21 till late.
 
 <a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
 
