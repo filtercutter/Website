@@ -12,7 +12,7 @@ image:
 
 Dub Carruseles I // 12″ strictly vinyl // 300 limited
 
-This heavy bass colab with amsterdam's Selektor Depender, turned out as a lovely vinyl release. Instant classic stuff.
+This heavy bass colab with amsterdam's Selektor Depender, turned out as a lovely vinyl release. Instant classic.
 
 * Artists: Selektor Depender & Filtercutter
 * Graphic Design: Iva Spasojevic, <a href="http://www.ivaspasojevic.com/" target="_blank">www.ivaspasojevic.com</a>
