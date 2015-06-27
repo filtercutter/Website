@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live GameBoy set form eZfRg Show
+title: Live GameBoy set form HoxtonFM
 description: "Filtercutter latest live music setup."
 tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
