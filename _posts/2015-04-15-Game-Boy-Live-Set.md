@@ -2,12 +2,10 @@
 layout: post
 title: Live set form FoxtonFM: eZfRg Radio Show
 description: "Filtercutter latest live music setup."
-modified: 2015-04-15
 tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
 image:
-  feature: hoxtonfmlogo.png
-  
+  feature: hoxtonfmlogo.jpg
 ---
 
 Live session recordings of Filtercutter live set, recorded on the eZfRg radio show at HoxtonFM London, Hackney.
