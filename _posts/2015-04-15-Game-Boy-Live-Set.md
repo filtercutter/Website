@@ -5,7 +5,7 @@ description: "Filtercutter GameBoy Live set."
 tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
 image:
-  feature: hoxtonfmlogo.jpg
+  <!--- feature: hoxtonfmlogo.jpg -->
 ---
 
 Live session recordings of Filtercutter live set, recorded on the eZfRg radio show at HoxtonFM in London, Hackney.
