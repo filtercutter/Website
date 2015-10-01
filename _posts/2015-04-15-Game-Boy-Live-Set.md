@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live GameBoy set form HoxtonFM
+title: Filtercutter Live Set Straight Form the GameBoy Console
 description: "Filtercutter GameBoy Live set."
 tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
