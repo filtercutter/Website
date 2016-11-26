@@ -10,7 +10,7 @@ modified: 2014-12-24
 
 <img src="/images/filtercutter_photo.jpg">
 
-London based DJ/Producer with sounds that are rooted in heavy baselines. His beat-ruffling is usually resulting in an experimental complex sounds, but with an emotional vibes and always good for dancefloor. 
+I'm a London based DJ/Producer with sounds that are rooted in heavy baselines. My beat-ruffling is usually resulting in an experimental complex sounds but with an emotional vibes and always good for dancefloor. 
 
 
 ### For anything, contact me by sending me an email to:
