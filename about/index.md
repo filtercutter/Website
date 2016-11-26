@@ -13,6 +13,11 @@ modified: 2014-12-24
 London based DJ/Producer with sounds that are rooted in heavy baselines. His beat-ruffling is usually resulting in an experimental complex sounds, but with an emotional vibes and always good for dancefloor. 
 
 
-### For bookings, contact me at:
+### For anything, contact me by sending me an email to:
+
+* <a href="mailto:info@filtercutter.com">info@filtercutter.com</a> 
+
+
+### And if you'd like to book me for a gig, do it at:
 
 * <a href="mailto:bookings@filtercutter.com">bookings@filtercutter.com</a> 

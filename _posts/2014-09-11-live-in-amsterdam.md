@@ -15,5 +15,5 @@ Show took place in Amsterdam's <a href="http://www.ot301.nl/page=site.home" targ
 
 <iframe src="//player.vimeo.com/video/105750090" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/105750090">Filtercutter Live &bull; Low Pitched 3</a> from <a href="http://vimeo.com/user934322">Piss &amp; Laugh TV</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
-<div markdown="0"><a href="https://twitter.com/LP_Pleasure" target="_blank" class="btn btn-info">Low-Pitched</a></div>
+<!---
+<div markdown="0"><a href="https://twitter.com/LP_Pleasure" target="_blank" class="btn btn-info">Low-Pitched</a></div> --->
