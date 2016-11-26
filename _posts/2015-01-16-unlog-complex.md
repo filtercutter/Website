@@ -12,7 +12,7 @@ image:
 
 New Unlog Compilation is out today! 
 
-Its a beat selection from finest newage beatmakers from all over the internet, and i'm happy to be part of it. 
+Its a beat selection from finest newage beatmakers from all over the internet. I pretty much enjoy to be part of it. <3 
 
 <a href="http://unlog1.bandcamp.com/album/va-unlog-complex-05" target="_blank">Download it Here</a>
 

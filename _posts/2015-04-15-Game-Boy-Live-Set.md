@@ -8,7 +8,7 @@ image:
   <!--- feature: hoxtonfmlogo.jpg -->
 ---
 
-Live session recordings of Filtercutter live set, recorded on the eZfRg radio show at HoxtonFM in London, Hackney.
+Live session recordings of Filtercutter live set, recorded on the eZfRg radio show at HoxtonFM radio in London, Hackney.
 
 Check out experimental heavy bass sounds coming straight from the chip. 
 
