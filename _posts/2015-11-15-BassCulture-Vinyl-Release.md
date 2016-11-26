@@ -16,7 +16,7 @@ With the releases, a special project called: “Out of the Box”, a series of h
 
 You can order this niceness pack at <a href="http://www.juno.co.uk/products/istari-lasterfahrer-selektor-depender-filtercutter-digital-dub/593174-01/" target="_blank">Juno.co.uk</a>
 
-Here we are particularly interested about Digital Dub Version. It's featuring a colab tune between Filtercutter and Selector Depender founder of Bassculture Amsterdam Soundsystem. Digi-dub flip of the original tune "Digital Age" by EARL 16! The record also features Istari Lasterfuhrer's massive Dub. I'm relly trilled to be part of this lovely release.
+Here we are particularly interested about Digital Dub Version. It's featuring a colab tune between Filtercutter and Selector Depender founder of Bassculture Amsterdam Soundsystem. Digi-dub flip of the original tune "Digital Age" by EARL 16! The record also features Istari Lasterfuhrer's massive Dub. I'm trilled to be part of this lovely release.
 
 <a href="http://sozialistischer-plattenbau.org/catalog/product_info.php?cPath&products_id=1765" target="_blank"><img src="/images/bc7003foto.jpg"></a>
 
