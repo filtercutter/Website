@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filtercutter 1 Up out on Svetlana Industries Vinyl 12"
+title: "Filtercutter 1 Up out on Svetlana Industries Vinyl 12"
 description: "1 Up."
 modified: 2014-12-24
 tags: [Vinyl, Release, Svetlana-Industries]
@@ -10,7 +10,7 @@ image:
   
 ---
 
-Filtercutter 1 up out on Svetlana Industries Vinyl 12" (svet001). Mastered by Jason at Transition Studios. Distributed by Cargo Records UK. Design by Nous Sommes Des Soleils.
+Filtercutter 1 up out on Svetlana Industries Vinyl 12 inch (svet001). Mastered by Jason at Transition Studios. Distributed by Cargo Records UK. Design by Nous Sommes Des Soleils.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1757515684/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.svetlanaindustries.com/album/svet001-1up">SVET001: 1UP by Filtercutter</a></iframe>
 
