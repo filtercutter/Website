@@ -5,6 +5,8 @@ description: "Synthmaking"
 modified: 2014-12-24
 tags: [Synth, 555, Analog, Synthmaking, Diy, Atari]
 comments: false
+image:
+  atari1.png
 
 ---
 
