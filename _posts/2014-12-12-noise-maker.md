@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fx mini digi synth"
+title: "Fx mini-digi-synth"
 description: "synthmaking"
 tags: [Electronics, Noise, Synth, diy]
 comments: false
@@ -13,6 +13,6 @@ image:
 
 This baby is an AVR based 8Bit FM synth with two oscilators It looks like this inside :)
 
-<img src="/images/digisynthard.jpg">
+<img src="/images/digisynthin.jpg">
 
 Two encoders modulating the frequency of the oscillators. Pressing the button on the first pot saves and recalls the sound as a preset, while pressing the other button switches between different effect modes. 

@@ -10,7 +10,7 @@ modified: 2014-12-24
 
 <img src="/images/filtercutter.JPG">
 
-Producer-beatmaker and computer nerd. Making sounds that are rooted in heavy baselines and do beat-ruffling that is resulting in an experimental complex but emotional vibes. Hacks electronics and make computer programs
+Producer-beatmaker + computer nerd. Making sounds that are rooted in heavy baselines and do beat-ruffling that is resulting in an experimental complex but emotional vibes. Hacks electronics and make computer programs.
 
 ### Contact by sending me an email to:
 
