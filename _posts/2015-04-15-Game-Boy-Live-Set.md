@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Filtercutter Live Set Straight Form the GameBoy Console
-description: "Filtercutter GameBoy Live set."
+title: "Filtercutter Gameboy live set"
+description: "Filtercutter Gameboy Live set."
 tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
 image:
