@@ -12,8 +12,8 @@ image:
 
 My latest electronics project - midi interface for Gameboy! Built with a custom mini arduino board and a custom box. Looks like that :
 
-<img src="/images/arduinoBoy.png">
+<img src="/images/ArduinoBoy.png">
 
-<img src="/images/gbamicro.png">
+<img src="/images/GBAmicro.png">
 
 Now back to making some chip-tune! :)
