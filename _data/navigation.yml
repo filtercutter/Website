@@ -1,10 +1,10 @@
 # Menu navigation links
 
-- title: Releases
+- title: Music Releases
   url: /Releases/
-
-- title: Soundcloud
-  url: https://soundcloud.com/filtercutter
 
 - title: Twitter
   url: https://twitter.com/filtercutter
+
+- title: Soundcloud
+  url: https://soundcloud.com/filtercutter

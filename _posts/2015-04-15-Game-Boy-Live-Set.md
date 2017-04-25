@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Filtercutter Gameboy live set"
+title: "Gameboy live set"
 description: "Filtercutter Gameboy Live set."
 tags: [GameBoy, Live, eZfRg, HoxtonFM]
 comments: false
