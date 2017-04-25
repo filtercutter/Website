@@ -5,8 +5,6 @@ description: "av fx"
 modified: 2014-12-24
 tags: [Video, Live, Performance, Electronics]
 comments: false
-image:
-  videofx.jpg
 
 ---
 

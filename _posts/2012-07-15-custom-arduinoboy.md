@@ -5,15 +5,13 @@ description: "chip-tune"
 modified: 2014-12-24
 tags: [Midi, Gameboy, Chiptune, Electronics, Arduino]
 comments: false
-image: 
-  arduinoboy.png
 
 ---
 
 My latest electronics project - midi interface for Gameboy! Built with a custom mini arduino board and a custom box. Looks like that :
 
-<img src="/images/ArduinoBoy.png">
+<img src="/images/bwoyarduino.png">
 
-<img src="/images/GBAmicro.png">
+<img src="/images/arduinogba.png">
 
 Now back to making some chip-tune! :)
