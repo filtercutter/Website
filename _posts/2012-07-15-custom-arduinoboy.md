@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEW PROJECT - Gameboy MidiInterface"
+title: "Electronics - Gameboy MidiInterface"
 description: "chip-tune"
 modified: 2014-12-24
 tags: [Midi, Gameboy, Chiptune, Electronics, Arduino]
