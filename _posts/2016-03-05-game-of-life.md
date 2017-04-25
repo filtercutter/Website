@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Filtercutter Live Set Straight Form the GameBoy Console
-description: "Filtercutter GameBoy Live set."
-tags: [GameBoy, Live, eZfRg, HoxtonFM]
+title: "Colour buttons test"
+description: "Colours"
+tags: [Electronics, testing]
 comments: false
 image:
   <!--- feature: hoxtonfmlogo.jpg --> 
