@@ -15,12 +15,10 @@ mixing desk + sampler + keyboards + drums + microphones = <3
 <figure class="">
    <a href="/images/orkestar1.jpg"><img src="/images/orkestar1.jpg">
    	 <figcaption>Live from Belgrade @Akademija Feb 2009.</figcaption>
-   	 </figure>
 
 
 <a href="/images/fdo_flyer.jpg"><img src="/images/fdo_flyer.jpg">
    	<figcaption>flyer form 2008. made by <a href="http://stang.rs/" target="_blank">Igor Stangliczky</a></figcaption>
-   </figure>
 
 
 Filtercutter was pulling the strings with the main sampler and a mixing desk, together with two keyboardists (Bojan, Darja) and a percussion player (Stung).

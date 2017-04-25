@@ -9,10 +9,10 @@ image:
 
 ---
 
-<img src="/images/digisyntfront.jpg">
+<img src="/images/digiSyntFront.jpg">
 
 This baby is an AVR based 8Bit FM synth with two oscilators It looks like this inside :)
 
-<img src="/images/digisynthin.jpg">
+<img src="/images/digiSynthIn.jpg">
 
 Two encoders modulating the frequency of the oscillators. Pressing the button on the first pot saves and recalls the sound as a preset, while pressing the other button switches between different effect modes. 
