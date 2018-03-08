@@ -8,7 +8,7 @@ comments: false
 
 ---
 
-My latest electronics project - midi interface for Gameboy! Built with a custom mini arduino board and a custom box. Looks like that :
+My latest electronics project - midi interface for Gameboy! Built using two plastic glasses from Tesco. Looks like that :
 
 <img src="/images/bwoyarduino.png">
 

@@ -9,7 +9,7 @@ image:
 ---
 
 Mixtape for Pixelatique magazine, featuring some of the most interesting musicans. These people that I really dig at the moment. All packed with some of my latest tunes.
-The upload has reached 5th in the Experimental chart and 12th in the Electronic chart on mixcloud.com.
+The mix has reached 5th place in the Experimental chart and 12th in the Electronic chart on mixcloud.com.
 
 <a href="https://www.mixcloud.com/Pixelatique/pixelatique-podcast-34-filtercutter/" target="_blank"><img src="https://images-mix.netdna-ssl.com/w/300/h/300/q/85/upload/images/extaudio/251cfb85-489c-4675-b201-147f4f57e36e.jpg"></a>
 

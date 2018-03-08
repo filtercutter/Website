@@ -15,7 +15,7 @@ Filtercutter 1 up out on Svetlana Industries Vinyl 12 inch (svet001). Mastered b
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1757515684/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.svetlanaindustries.com/album/svet001-1up">SVET001: 1UP by Filtercutter</a></iframe>
 
 
-It was accompanied by a bass-heavy minimal-deep Ramadanman Refix. The guy is also known as Pearson Sound, founder of <a href="http://hessleaudio.com/" target="_blank">hessleaudio</a> record label.
+It was accompanied by a bass-heavy minimal-deep Ramadanman Refix. Artist also known as Pearson Sound, founder of <a href="http://hessleaudio.com/" target="_blank">hessleaudio</a> record label.
 
 ![Vinyl Image]({{ site.url }}/images/filtertee2small.jpg)
 {: .image-right}

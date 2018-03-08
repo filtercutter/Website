@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-The concept is put together by Filtercutter. With a will to perform Live Dubstep. It was made as a collaboration of a friends musicians, kind of a unique thing in the Balkan region at the time. With all the techy equipment and trippy sounds are made by jam sessioning and experiments on the fly. Band was active during 2008. and 2009. 
+The concept is put together by Filtercutter. Willing to perform Live Dubstep Sound. It's basically a collaboration of a friends musicians, quite a unique thing in the Balkan region at the time. With familly energy trippy sounds made by jam sessioning and experiments on the fly, band was active during 2008. and 2009. 
 
 mixing desk + sampler + keyboards + drums + microphones = <3
 
@@ -21,9 +21,9 @@ mixing desk + sampler + keyboards + drums + microphones = <3
    	<figcaption>flyer form 2008. made by <a href="http://stang.rs/" target="_blank">Igor Stangliczky</a></figcaption>
 
 
-Filtercutter was pulling the strings with the main sampler and a mixing desk, together with two keyboardists (Bojan, Darja) and a percussion player (Stung).
+Filtercutter was pulling the strings with his main sampler and a mixing desk, together with two keyboardists (Bojan, Darja) and an electronic percussions player (Stung).
 
-Usually there was also the helping microphone force coming from Mc Bojah and Mc Techs. They were bringing the vibes up with their rhymes 'n flow.
+With the helping microphone force from Mc Bojah and Mc Techs rising the vibes up with rhymes 'n flow.
 
 <figure class="half">
 	<a href="/images/orkestar2.jpg"><img src="/images/orkestar2.jpg" alt=""></a>

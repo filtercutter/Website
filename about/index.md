@@ -10,13 +10,13 @@ modified: 2014-12-24
 
 <img src="/images/filtercutter.JPG">
 
-Producer-beatmaker + computer nerd. Making sounds that are rooted in heavy baselines and do beat-ruffling that is resulting in an experimental complex but emotional vibes. Hacks electronics and make computer programs.
+Computer programmer + producer-beatmaker. Making sounds that are rooted in heavy baselines and do beat-ruffling that is resulting in an experimental complex but emotional vibes. Hacking electronics and makubg computer programs.
 
-### Contact by sending me an email to:
+### For inquiries contact by sending me an email to:
 
 * <a href="mailto:filtercutter@gmail.com">filtercutter@gmail.com</a> 
 
 
-### And if like to book for playing music gig, do it at:
+### And if u like to book me for playing a music gig, please do at:
 
 * <a href="mailto:bookings@filtercutter.com">bookings@filtercutter.com</a> 

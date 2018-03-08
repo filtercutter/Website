@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music Releases
+title: Music
 description: "Links of the releases - Vinyl or Digital."
 image:
   feature: makazeblack.svg
