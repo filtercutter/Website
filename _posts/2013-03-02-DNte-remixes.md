@@ -16,7 +16,7 @@ Mad-Hop​ Records drops the release of "Translucent" Remixes including the fres
 
 You can order DNte Moments original Vinyl release, from the Bandcamp ->
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=817380093/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mad-hop.bandcamp.com/album/moments">Moments by Dnte</a></iframe> 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=817380093/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2662396733/transparent=true/" seamless><a href="http://mad-hop.bandcamp.com/album/moments">Moments by Dnte</a></iframe>
 
 ---
 
