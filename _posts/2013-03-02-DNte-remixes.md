@@ -20,4 +20,4 @@ You can order DNte Moments original Vinyl release, from the Bandcamp ->
 
 ---
 
-<div markdown="0"><a href="http://mad-hop-records.com/" target="_blank" class="btn btn-info">Mad-Hop Records</a></div>
+<div markdown="0"><a href="https://mad-hop.bandcamp.com/" target="_blank" class="btn btn-info">Mad-Hop Records</a></div>
