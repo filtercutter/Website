@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hacking Ble SmartWatch"
+title: "Sensor reading - BLE SmartWatch"
 description: "Proximity sensor reading"
 tags: [Electronics, testing, hacking]
 comments: false
