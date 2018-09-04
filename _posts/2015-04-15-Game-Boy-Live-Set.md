@@ -23,7 +23,7 @@ Will be streaming live, from 21 till late.
 
 <a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
 
-<a href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg"></a>
+<a href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg" style="width: 100%;"></a>
 
 ---
 
