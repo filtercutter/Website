@@ -9,10 +9,8 @@ image:
 
 ---
 
-<img src="/images/digiminisynth1.png" style="width: 100%; display: block; margin: 0 auto;">
-
 This baby is an AVR based 8Bit FM synth with two oscilators and it looks like this inside :)
 
-<img src="/images/digiminisynth2.png" style="width: 100%; display: block; margin: 0 auto;">
+<img src="/images/digiminisynthDbl.png" style="width: 100%; display: block; margin: 0 auto;">
 
 Two encoders are modulating the frequency of the oscillators. Pressing the button on the first pot saves and recalls the sound as a preset, while pressing the other button switches between different effect modes. 
