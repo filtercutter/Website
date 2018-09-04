@@ -9,7 +9,7 @@ image:
 
 ---
 
-This baby is an AVR based 8Bit FM synth with two oscilators and it looks like this inside :)
+This baby is an AVR based 8Bit FM synth with two oscilators and it looks like this :)
 
 <img src="/images/digiminisynthDbl.png" style="width: 100%; display: block; margin: 0 auto;">
 
