@@ -10,8 +10,8 @@ comments: false
 
 My latest electronics project - midi interface for Gameboy! Built using two plastic glasses from Tesco. Looks like that :
 
-<img src="/images/bwoyarduino.png" style="width: 50%; display: block; margin: 0 auto;">
+<img src="/images/bwoyarduino.png" style="width: 45%;">
 
-<img src="/images/arduinogba.png" style="width: 50%; display: block; margin: 0 auto;">
+<img src="/images/arduinogba.png" style="width: 45%;">
 
 Now back to making some chip-tune! :)
