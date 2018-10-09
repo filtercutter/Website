@@ -14,7 +14,7 @@ Computer programmer + producer-beatmaker. Making sounds that are rooted in heavy
 
 ### For programming work contact me on:
 
-* <a href="mailto:stefan@filtercutter.com">filtercutter@gmail.com</a> 
+* <a href="mailto:filtercutter@gmail.com">stefan@filtercutter.com</a> 
 
 
 ### If you would like to book me for playing a music gig, please do at:
