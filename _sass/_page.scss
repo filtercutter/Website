@@ -375,6 +375,7 @@ header .entry-meta {
 			padding: 15px;
 		}
 		@media #{$large} {
+			margin-top: -10;
 			margin-bottom: 30px;
 			padding: 50px 80px;
 		}
