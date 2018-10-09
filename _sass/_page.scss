@@ -107,7 +107,7 @@ body {
 	left: -50%; 
 	width: 200%; 
 	height: 200%;
-	min-height: 360px;
+	min-height: 340px;
 	overflow: hidden;
 	&:after {
 		content: '';
@@ -126,7 +126,7 @@ body {
 		bottom: 0; 
 		margin: auto; 
 		min-width: 50%;
-		min-height: 360px; // match .entry-image min-height
+		min-height: 340px; // match .entry-image min-height
 	}
 }
 // Feature Image Caption
@@ -350,7 +350,7 @@ header .entry-meta {
 // --------------------------------------------------
 #post-index {
 	#main {
-		margin: 40px 2px 20px 2px;
+		margin: 30px 2px 20px 2px;
 		@media #{$medium} {
 			margin-left: 20px;
 			margin-right: 20px;
@@ -369,7 +369,7 @@ header .entry-meta {
 		margin-bottom: 10px;
 		padding: 15px 15px;
 		@media #{$medium} {
-			padding: 30px;
+			padding: 15px;
 		}
 		@media #{$large} {
 			margin-bottom: 30px;
