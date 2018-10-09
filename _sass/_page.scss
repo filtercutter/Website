@@ -111,7 +111,7 @@ body {
 	width: 180%; 
 	height: 180%;
 	text-align: center;
-	min-height: 240px;
+	min-height: 220px;
 	overflow: hidden;
 	&:after {
 		content: '';
@@ -130,7 +130,7 @@ body {
 		bottom: 0; 
 		margin: auto; 
 		min-width: 50%;
-		min-height: 240px; // match .entry-image min-height
+		min-height: 220px; // match .entry-image min-height
 	}
 }
 // Feature Image Caption
