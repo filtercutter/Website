@@ -16,7 +16,7 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Flow-pitchedpleasure%2Flow-pitched-radio-22-w-filtercutter-15apr15%2F" frameborder="0" ></iframe>
 
-<a style="display: inline; float: left;" href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg" style="width: 60%;"></a>
+<a style="display: inline; float: left; width: 40%" href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg" style="width: 100%;"></a>
 
 <span style="display: inline; float: right;">
 
@@ -25,7 +25,5 @@ Check out experimental heavy bass sounds coming straight from the chip.
 <span>Will be streaming live, from 21 till late.</span>
 
 <a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
-
-
 
 <div markdown="0"><a href="https://www.facebook.com/LowPitchedPl3asure" target="_blank" class="btn btn-info">Low-Pitched</a></div>
