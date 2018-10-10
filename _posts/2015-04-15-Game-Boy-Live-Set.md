@@ -18,7 +18,7 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 ---
 
-<a style="display: inline; float: left; width: 40%; padding-right: 30px;" href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg" style="width: 100%;"></a>
+<a style="display: inline; float: left; width: 40%; margin-right: 30px;" href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg" style="width: 100%;"></a>
 
 <span style="display: inline; float: right;">
 
@@ -28,4 +28,3 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 <a href="http://radiopatapoe.nl/" target="_blank">http://radiopatapoe.nl/</a>
 
-<div markdown="0"><a href="https://www.facebook.com/LowPitchedPl3asure" target="_blank" class="btn btn-info">Low-Pitched</a></div>
