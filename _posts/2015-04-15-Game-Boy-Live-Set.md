@@ -20,7 +20,7 @@ Check out experimental heavy bass sounds coming straight from the chip.
 
 <a style="display: inline; float: left; width: 40%; margin-right: 30px;" href="http://radiopatapoe.nl/" target="_blank"><img src="/images/lpptpradio.jpg" style="width: 100%;"></a>
 
-<span style="display: inline; float: right;">
+<!-- <span style="display: inline; float: right;"> -->
 
 <span>Also be shure to catch Filtercutter tonight at Amsterdam Patapoe Radio - <a href="http://www.lowpitched.org/" target="_blank">Low-Pitched</a></span>
 
