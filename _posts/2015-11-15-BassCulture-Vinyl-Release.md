@@ -8,7 +8,7 @@ image:
   <!--- feature: hoxtonfmlogo.jpg -->
 ---
 
-<a style="display: inline; float: left; width: 40%; margin-right: 30px;" href="http://sozialistischer-plattenbau.org/catalog/product_info.php?cPath&products_id=1765" target="_blank"><img src="/images/bc7003foto.jpg" style="display: inline; margin-left: auto; margin-right: auto; width: 100%;"></a>
+<a style="display: inline; float: left; width: 40%; margin-right: 30px; padding-top: 10px;" href="http://sozialistischer-plattenbau.org/catalog/product_info.php?cPath&products_id=1765" target="_blank"><img src="/images/bc7003foto.jpg" style="display: inline; margin-left: auto; margin-right: auto; width: 100%;"></a>
 
 <!-- <span style="display: inline; float: right;"> -->
 
