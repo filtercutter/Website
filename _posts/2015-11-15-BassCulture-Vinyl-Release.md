@@ -16,7 +16,7 @@ image:
 
 <span>With the releases, a special project called: “Out of the Box”, a series of hand crafted center pucks (for 7” singles) made from brass and red copper, will be exhibit.</span> 
 
-<span>You can order this niceness pack at <a href="http://www.juno.co.uk/products/istari-lasterfahrer-selektor-depender-filtercutter-digital-dub/593174-01/" target="_blank">Juno.co.uk</a></span>
+<span>You can order this niceness pack at <a href="https://sozialistischer-plattenbau.org/catalog/product_info.php?products_id=1463&osCsid=8431594ff4c4e0dc6904fbf1e6fe1f5f" target="_blank">sozialistischer-plattenbau.org</a></span>
 
 <span>Here we are particularly interested about Digital Dub Version. It's featuring a colab tune between Filtercutter and Selector Depender founder of Bassculture Amsterdam Soundsystem. Digi-dub flip of the original tune "Digital Age" by EARL 16! The record also features Istari Lasterfuhrer's massive Dub. I'm trilled to be part of this lovely release.
 
