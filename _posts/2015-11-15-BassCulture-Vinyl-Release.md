@@ -10,7 +10,7 @@ image:
 
 <a style="display: inline; float: left; width: 40%; margin-right: 30px;" href="http://sozialistischer-plattenbau.org/catalog/product_info.php?cPath&products_id=1765" target="_blank"><img src="/images/bc7003foto.jpg" style="display: inline; margin-left: auto; margin-right: auto; width: 100%;"></a>
 
-<span style="display: inline; float: right;">
+<!-- <span style="display: inline; float: right;"> -->
 
 <span>This year, Bassculture Foundation Amsterdam celebrates its 20th anniversary by presenting the release of three new dub plates on 7” vinyl.</span> 
 
