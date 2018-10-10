@@ -8,12 +8,12 @@ image:
   <!--- feature: hoxtonfmlogo.jpg -->
 ---
 
-<a style="display: inline;" href="http://sozialistischer-plattenbau.org/catalog/product_info.php?cPath&products_id=1765" target="_blank"><img src="/images/bc7003foto.jpg" style="display: inline; margin-left: auto; margin-right: auto; width: 45%;"></a>
+<a style="display: inline;" href="http://sozialistischer-plattenbau.org/catalog/product_info.php?cPath&products_id=1765" target="_blank"><img src="/images/bc7003foto.jpg" style="display: inline; margin-left: auto; margin-right: auto; width: 45%;">
 
 <p style="display: inline;">This year, Bassculture Foundation Amsterdam celebrates its 20th anniversary by presenting the release of three new dub plates on 7” vinyl. 
 
 With the releases, a special project called: “Out of the Box”, a series of hand crafted center pucks (for 7” singles) made from brass and red copper, will be exhibit. 
-</p>
+</p></a>
 ---
 
 You can order this niceness pack at <a href="http://www.juno.co.uk/products/istari-lasterfahrer-selektor-depender-filtercutter-digital-dub/593174-01/" target="_blank">Juno.co.uk</a>
