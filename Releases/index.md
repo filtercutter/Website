@@ -48,28 +48,22 @@ comments: false
 
 ---
 
-### <a href="http://www.toolboxrecords.com/en/product/16303/bass-dubstep-grime/sozialistischer-plattenbau-12022/" target="_blank">Sozialistischer Plattenbau & Bassculture - Dub Carruseles</a>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65395661&color=ff5500"></iframe>
-
----
-
 ### Mad Hop - Eastern Sham
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2636814852/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1250204346/transparent=true/" seamless><a href="http://mad-hop.bandcamp.com/album/mad-hop-vol-1">Mad-Hop vol.1 by MAD-HOP</a></iframe>
 
 ---
 
-### Miqio O - Pop It (Filtercutter Remix) - from 
+### Miqio O - Pop It (Filtercutter Remix)
 Untold #VI - Untold Series Remixes
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=872319756/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=580454481/transparent=true/" seamless><a href="http://miqio.bandcamp.com/album/untold-vi-untold-series-remixes">Untold #VI - Untold Series Remixes by Miqi O.</a></iframe>
 
 ---
 
-### Robox Neotech - DEMOKRACY - VOIGHT KAMPFF (Filtercutter Remix)
+### Sozialistischer Plattenbau & Bassculture - Dub Carruseles
 
-<iframe src="http://embed.beatport.com/player/?id=1943952&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=548321630/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3650853967/transparent=true/" seamless><a href="https://bassculturenl.bandcamp.com/album/dub-carruseles">DUB CARRUSELES by Selektor Depender &amp; Filtercutter</a></iframe>
 
 ---
 
@@ -78,12 +72,4 @@ Untold #VI - Untold Series Remixes
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1705968937/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1031508464/transparent=true/" seamless><a href="http://mad-hop.bandcamp.com/album/mad-hop-vol-3">Mad-Hop vol.3 by MAD-HOP</a></iframe>
 
 ---
-
-### WTF Is Swag (EAT DESSERT FIRST) Filtercutter - Shahty
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2378796335/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=320378586/transparent=true/" seamless><a href="http://wtfisswag.bandcamp.com/album/eat-dessert-first">EAT DESSERT FIRST by VARIOUS</a></iframe>
-
----
-
-
 
