@@ -42,22 +42,15 @@ comments: false
 
 ---
 
-### Mad Hop - Eastern Sham
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2636814852/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1250204346/transparent=true/" seamless><a href="https://madhoprecords.bandcamp.com/album/mad-hop-vol-1">Mad-Hop vol.1 by Mad Hop Records</a></iframe>
-
----
-
-### Miqio O - Pop It (Filtercutter Remix)
-Untold #VI - Untold Series Remixes
+### Miqi O - Pop It (Filtercutter Remix)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=872319756/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=580454481/transparent=true/" seamless><a href="https://miqio.bandcamp.com/album/untold-vi-untold-series-remixes">Untold #VI - Untold Series Remixes by Miqi O.</a></iframe>
 
 ---
 
-### Sozialistischer Plattenbau & Bassculture - Dub Carruseles
+### Mad Hop - Eastern Sham
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=548321630/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3650853967/transparent=true/" seamless><a href="https://bassculturenl.bandcamp.com/album/dub-carruseles">DUB CARRUSELES by Selektor Depender &amp; Filtercutter</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2636814852/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1250204346/transparent=true/" seamless><a href="https://madhoprecords.bandcamp.com/album/mad-hop-vol-1">Mad-Hop vol.1 by Mad Hop Records</a></iframe>
 
 ---
 
