@@ -30,12 +30,6 @@ comments: false
 
 ---
 
-### MEDVEDE - Filtercutter - Ghost Echo
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162950128&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
----
-
 ### btf x rx​:​tx - Filtercutter - 4Luv
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1818346369/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2561309440/transparent=true/" seamless><a href="http://rxtx.bandcamp.com/album/btf-x-rx-tx">btf x rx:tx by Filtercutter</a></iframe>
